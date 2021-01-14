@@ -1,0 +1,9 @@
+https://github.com/whitehatjr/Sampling-distribution
+
+Student activity is not needed .
+just perform teacher activity.
+It is same.
+Ask student to perfrom code of teacher activity
+
+Refer the comments which i have written before each code for better understanding.
+We need to uncomment every section of code and show output.Since lot of different section of codes is there.
